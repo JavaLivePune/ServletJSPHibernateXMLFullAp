@@ -19,7 +19,7 @@
 		</filter>
 		<filter-mapping>
 			<filter-name>PerformanceFilter</filter-name>
-			<url-pattern>/PerformanceFilter</url-pattern>
+			<url-pattern>/studentInfo</url-pattern>
 		</filter-mapping>
 		<listener>
 			<listener-class>listeners.ContextListener</listener-class>
